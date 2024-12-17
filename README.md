@@ -19,6 +19,8 @@ The dataset structure will be Alpaca Format.
 
         https://medium.com/@imranullahds/unlocking-efficiency-a-deep-dive-into-medical-model-fine-tuning-with-unsloth-trl-and-peft-066358fc197b
 
+        https://huggingface.co/docs/trl/sft_trainer
+
 ## Testing all fine-tuning models:
 
 ### Lora
